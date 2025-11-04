@@ -10,7 +10,7 @@ The Java SE version in use needs to be 17 or higher.
 
 ### Jakarta Data API and TCK 1.0.0-RC1
 1. download https://www.eclipse.org/downloads/download.php?file=/ee4j/data/jakartaee/staged/eftl/data-tck-1.0.0.zip
-1. unizip data-tck-1.0.0.zip
+1. unzip data-tck-1.0.0.zip
 1. cd data-tck-1.0.0/artifacts
 2. bash artifact-install.sh 1.0.0
 
